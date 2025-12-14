@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ビーナスバグ",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-14T17:48:37.302739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビーナスバグ",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/01_ビーナスバグ_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビーナスバグ",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_ビーナスバグ_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビーナスバグ / Venus Bug",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/03_ビーナスバグ___Venus_Bug_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビーナスバグ",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/04_ビーナスバグ_星街すいせい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビーナスバグ",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_ビーナスバグ_星街すいせい.txt"
+    }
+  ]
+}
